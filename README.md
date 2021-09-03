@@ -1,6 +1,6 @@
 # Skim-Attention
 
-[Skim-Attention: Learning to Focus via Document Layout]() Laura Nguyen, Thomas Scialom, Jacopo Staiano, Benjamin Piwowarski, EMNLP 2021
+[Skim-Attention: Learning to Focus via Document Layout](https://arxiv.org/abs/2109.01078) Laura Nguyen, Thomas Scialom, Jacopo Staiano, Benjamin Piwowarski, EMNLP 2021
 
 ## Introduction
 
@@ -118,4 +118,11 @@ $ run python experiments/run_layout_analysis.py --output_dir path/to/output/dir 
 
 ## Citation
 
-Coming soon
+``` latex
+@article{nguyen2021skimattention,
+    title={Skim-Attention: Learning to Focus via Document Layout}, 
+    author={Laura Nguyen and Thomas Scialom and Jacopo Staiano and Benjamin Piwowarski},
+    journal={arXiv preprint arXiv:2109.01078}
+    year={2021},
+}
+```
