@@ -6,6 +6,9 @@
 
 *Skim-Attention* is a new attention mechanism that takes advantage of the document layout by attending exclusively to the 2-dimensional position of the words. We propose two approaches to exploit *Skim-Attention*: i) *Skimformer*, wherein self-attention is replaced with Skim-Attention; and ii) *SkimmingMask*, where an attention mask is built from Skim-Attention and fed to a Transformer language model.
 
+## Models
+`skimformer` | [HuggingFace](https://huggingface.co/nglaura/skimformer)
+
 ## Environment Setup
 
 Setup environment as follows:
